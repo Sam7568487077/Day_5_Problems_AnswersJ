@@ -37,16 +37,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Swap">
-    <configuration name="Harmonic_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Harmonic_Series" />
+  <component name="RunManager" selected="Application.Even_Odd">
+    <configuration name="Even_Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Even_Odd" />
       <module name="Day_5_Problems_AnswersJ" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Harmonic_series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Harmonic_series" />
+    <configuration name="Harmonic_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Harmonic_Series" />
       <module name="Day_5_Problems_AnswersJ" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Even_Odd" />
         <item itemvalue="Application.Swap" />
         <item itemvalue="Application.Q_And_R" />
         <item itemvalue="Application.Prime_factorisation" />
         <item itemvalue="Application.Harmonic_Series" />
-        <item itemvalue="Application.Harmonic_series" />
       </list>
     </recent_temporary>
   </component>
