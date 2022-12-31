@@ -37,14 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Harmonic_Series">
-    <configuration name="Flip_Coin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Flip_Coin" />
-      <module name="Day_5_Problems_AnswersJ" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Prime_factorisation">
     <configuration name="Harmonic_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Harmonic_Series" />
       <module name="Day_5_Problems_AnswersJ" />
@@ -73,13 +66,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Prime_factorisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prime_factorisation" />
+      <module name="Day_5_Problems_AnswersJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prime_factorisation" />
         <item itemvalue="Application.Harmonic_Series" />
         <item itemvalue="Application.Harmonic_series" />
         <item itemvalue="Application.Power_2" />
         <item itemvalue="Application.Leap_Year" />
-        <item itemvalue="Application.Flip_Coin" />
       </list>
     </recent_temporary>
   </component>
