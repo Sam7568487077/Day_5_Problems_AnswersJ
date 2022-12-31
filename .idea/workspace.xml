@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a225471d-1428-46e3-a312-118c396ea83c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leap_Year.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leap_Year.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Leap_Year">
+  <component name="RunManager" selected="Application.Power_2">
     <configuration name="Flip_Coin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Flip_Coin" />
       <module name="Day_5_Problems_AnswersJ" />
@@ -50,8 +49,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Power_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Power_2" />
+      <module name="Day_5_Problems_AnswersJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Power_2" />
         <item itemvalue="Application.Leap_Year" />
         <item itemvalue="Application.Flip_Coin" />
       </list>
