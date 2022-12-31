@@ -37,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Prime_factorisation">
+  <component name="RunManager" selected="Application.Q_And_R">
     <configuration name="Harmonic_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Harmonic_Series" />
       <module name="Day_5_Problems_AnswersJ" />
@@ -47,13 +47,6 @@
     </configuration>
     <configuration name="Harmonic_series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Harmonic_series" />
-      <module name="Day_5_Problems_AnswersJ" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leap_Year" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leap_Year" />
       <module name="Day_5_Problems_AnswersJ" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,13 +66,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q_And_R" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q_And_R" />
+      <module name="Day_5_Problems_AnswersJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q_And_R" />
         <item itemvalue="Application.Prime_factorisation" />
         <item itemvalue="Application.Harmonic_Series" />
         <item itemvalue="Application.Harmonic_series" />
         <item itemvalue="Application.Power_2" />
-        <item itemvalue="Application.Leap_Year" />
       </list>
     </recent_temporary>
   </component>
