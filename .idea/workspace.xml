@@ -37,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Vowel_Or">
+  <component name="RunManager" selected="Application.Largest_Number">
     <configuration name="Even_Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Even_Odd" />
       <module name="Day_5_Problems_AnswersJ" />
@@ -45,8 +45,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prime_factorisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prime_factorisation" />
+    <configuration name="Largest_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Largest_Number" />
       <module name="Day_5_Problems_AnswersJ" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Largest_Number" />
         <item itemvalue="Application.Vowel_Or" />
         <item itemvalue="Application.Even_Odd" />
         <item itemvalue="Application.Swap" />
         <item itemvalue="Application.Q_And_R" />
-        <item itemvalue="Application.Prime_factorisation" />
       </list>
     </recent_temporary>
   </component>
